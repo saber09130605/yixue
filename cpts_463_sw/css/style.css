@@ -301,7 +301,13 @@ footer .col-footer .heading{text-align: center;}
 footer .col-footer .heading h4{color:#fff;font-size: 24px;margin-bottom: 25px;}
 footer .col-footer .content{}
 
-footer .col-footer.footer-1{}
+footer .col-footer.footer-1{text-align: center;}
+footer .col-footer.footer-1 .content a {
+	margin: 0 12px;
+}
+footer .col-footer.footer-1 .content a:hover {
+	color: #fff;
+}
 footer .col-footer.footer-1 img{width:40%;}
 
 footer .col-footer.footer-2{}
